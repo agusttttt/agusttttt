@@ -1,4 +1,8 @@
-## Hi there 👋 I'm Thames
+<p align="center">
+  <img src="https://www.ghibli.jp/gallery/ged048.jpg" width="100%"/>
+</p>
+
+<h2 align="center">Hi there 👋 I'm Thames</h2>
 
 I have hands-on experience in software development through my academic projects and internship.
 
@@ -11,14 +15,15 @@ I'm eager to learn, adapt, and take on new responsibilities, with a detail-orien
 
 ---
 
-## 🛠 Skills
-- Programming: PHP, JavaScript, Python, Java
-- Web: HTML, CSS, Bootstrap
-- Database: MySQL
-- Tools: Git, GitHub, VS Code
+## Skills
+- Agile Scrum Methodology
+- Requirement Gathering
+- Teamwork
+- Time Management
+- Problem Solving
 
 ---
-## 🛠 Languages & Tools I Use
+## Languages & Tools I Use
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
@@ -39,5 +44,5 @@ I'm eager to learn, adapt, and take on new responsibilities, with a detail-orien
 
 ---
 
-## 📫 Contact
-- Email: thames32070@gmail.com
+## Contact
+Email: thames32070@gmail.com
