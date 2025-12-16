@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**agusttttt/agusttttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Thames
 
-Here are some ideas to get you started:
+🎓 Software Engineering Graduate  
+💻 Interested in Software Development & Web Application  
+📍 Thailand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+- Programming: PHP, JavaScript, Python, Java
+- Web: HTML, CSS, Bootstrap
+- Database: MySQL
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📂 Projects
+- **SND Document Management System**
+  - Online document submission & tracking system
+  - PHP, MySQL, Bootstrap
+
+- **LINE Chatbot (Python)**
+  - Automatic Q&A chatbot
+  - Connected with database
+
+---
+
+## 📫 Contact
+- Email: yourmail@gmail.com
+- LinkedIn: https://linkedin.com/in/yourname
